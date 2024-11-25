@@ -4,4 +4,4 @@ title: "About"
 permalink: /about/contact
 ---
 
-{% translate about.md %}
+{% translate_file about.md %}
