@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 # {% t main.welcomeSection.heading %}

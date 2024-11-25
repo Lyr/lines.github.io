@@ -1,6 +1,4 @@
 theme: jekyll-theme-midnight
-baseurl: ""
-url: ""
 include:
   - "assets"
 github:
