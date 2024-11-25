@@ -3,6 +3,8 @@ include:
   - "assets"
 github:
   is_project_page: false
+plugins:
+  - jekyll-multiple-languages-plugin
 
 languages: ["en", "fr"]
 exclude_from_localizations: ["assets", "CNAME"]
