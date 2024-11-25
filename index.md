@@ -1,7 +1,5 @@
 ---
 layout: page
-title: "Home"
-permalink: /
 ---
 
 # {% t main.welcomeSection.heading %}
