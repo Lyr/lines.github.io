@@ -1,0 +1,11 @@
+site:
+  name: Lines, La nouvelle sensation gaming!
+  description: >- # this means to ignore newlines until "baseurl:"
+    Lines est un deck builder retro, pour les passionnées de jeux
+  keywords: videogame, retro, 80's, lines
+
+main:
+  welcomeSection:
+    anchor: binvenue
+    heading: Bienvenue dans l'univers du jeux video Lines.
+    p1: Connaissez vous la dernière sensation gaming ?
